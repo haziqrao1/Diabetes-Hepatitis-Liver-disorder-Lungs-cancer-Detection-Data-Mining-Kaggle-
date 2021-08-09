@@ -1,0 +1,1 @@
+# Diabetes-Hepatitis-Liver-disorder-Lungs-cancer-Detection-Data-Mining-Kaggle-
